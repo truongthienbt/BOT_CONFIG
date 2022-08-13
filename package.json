@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "@discordjs/opus": "^0.8.0",
+    "discord.js": "^12.5.3",
+    "ffmpeg-static": "^4.2.7",
+    "fs": "^0.0.1-security",
+    "minecraft-server-util": "^3.4.2",
+    "yt-search": "^2.5.1",
+    "ytdl-core": "^4.2.0"
+  },
+  "name": "cc-attack",
+  "description": "/////    /////    /////////////\r       CCCCC/   CCCCC/   | CC-attack |/\r      CC/      CC/       |-----------|/ \r      CC/      CC/       |  Layer 7  |/ \r      CC/////  CC/////   | ddos tool |/ \r       CCCCC/   CCCCC/   |___________|/",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leeon123/CC-attack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leeon123/CC-attack/issues"
+  },
+  "homepage": "https://github.com/Leeon123/CC-attack#readme"
+}
